@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('helloharendra'),
+          title: const Text('Firebase connectivity'),
         ),
         body: const Center(
           child: Text('Intialize firebase'),
