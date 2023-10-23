@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123219535143",
+    "project_id": "flutter-app-fa288",
+    "storage_bucket": "flutter-app-fa288.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123219535143:android:c56c0f59c729432677f502",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEXCmqP0q-QIBvoQ-yeusxk12YbAYpy1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
